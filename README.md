@@ -56,3 +56,18 @@ file.json
 └── "version": 1.1
 ```
 The development and test sets contain three answers for each example collected from three different annotators.
+## Citation
+Please cite our paper if you use our datasets 
+```
+@article{albilali2022constructing,
+  title={Constructing Arabic Reading Comprehension Datasets: Arabic WikiReading and KaifLematha},
+  author={Albilali, Eman and Al-Twairesh, Nora and Hosny, Manar},
+  journal={Language Resources and Evaluation},
+  volume={56},
+  number={3},
+  pages={729--764},
+  year={2022},
+  publisher={Springer}
+}
+```
+
