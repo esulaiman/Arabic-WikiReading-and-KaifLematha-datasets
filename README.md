@@ -34,4 +34,6 @@ file.json
 ## KaifLematha Dataset
 ![KaifLemath sample.](KaifLematha_sample.png)
 ### KaifLematha dataset collection
-Crowdsourcing was employed to collect non-factoid Arabic questions and answers. The crowdsourcing was performed in two phases: question–answer pair collection from the curated Wikipedia paragraphs, and the collection of additional answers by annotators for the development and test sets.
+Crowdsourcing was employed to collect non-factoid Arabic questions and answers. The crowdsourcing was performed in two phases: question–answer pair collection from the curated Wikipedia paragraphs, and the collection of additional answers by annotators for the development and test sets. Presented with an interface containing a paragraph, each annotator was asked (if possible) to construct two why questions and two how questions in their own words.
+
+To make the evaluation process more robust and to get an indication about human performance, we employed a new group of eight annotators in the second phase. These annotators were instructed to collect two additional answers to each question in the development and test sets. They were asked to read the question and the paragraph and highlight the shortest span containing the answer.
