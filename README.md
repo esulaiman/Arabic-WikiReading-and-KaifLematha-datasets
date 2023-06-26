@@ -1,5 +1,9 @@
 # Arabic WikiReading and KaifLematha Datasets
 This repository contains Arabic reading comprehension datasets Arabic WikiReading (factoid dataset) and KaifLematha (non-factoid dataset)
+|               | train | development| test | validated dev.| validated test | total |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Arabic WikiReading  | 79,048  | 9806  | 9789  | 9485  | 7379  | 98,643 |
+| KaifLematha  | 5563  | 619  | 579  | -  | -  | 6761  |
 ## Arabic WikiReading dataset 
 ### Arabic WikiReading dataset collection
 ![Arabic WikiReading Sample.](Arabic_WikiReading_Sample.png)
