@@ -55,3 +55,4 @@ file.json
 │                      └── "question": "paragraph question?"
 └── "version": 1.1
 ```
+The development and test sets contain three answers for each example collected from three different annotators.
