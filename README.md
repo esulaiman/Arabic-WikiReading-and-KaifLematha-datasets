@@ -1,6 +1,6 @@
-# Arabic-WikiReading-and-KaifLematha-datasets
+# Arabic WikiReading and KaifLematha Datasets
 This repository contains Arabic reading comprehension datasets Arabic WikiReading (factoid dataset) and KaifLematha (non-factoid dataset)
-# Arabic WikiReading dataset 
+## Arabic WikiReading dataset 
 The format foe Arabic WikiReading follow
 ```
 file.json
